@@ -1,0 +1,28 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    font-family:'Noto Serif', serif;
+}
+
+.NOTE{
+    font-size:15px;
+    color:chocolate;
+}
+
+
+body{
+    background-size:cover;
+}
+
+.Song_Name{
+font-size:25px;
+}
+
+
+canvas{
+    background-color:blue;
+        box-shadow: 15px 15px 15px salmon;
+    border:5px;
+    border-radius: 25px 50px;
+}
